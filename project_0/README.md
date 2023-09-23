@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 0. Угадай число 
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Amina313/sf_data_science/blob/ma/project_0/README.md#Описание-проекта)
