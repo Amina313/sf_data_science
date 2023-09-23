@@ -16,7 +16,7 @@
 ### Описание проекта
 Угадать загаданное числоза за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Amina313/sf_data_science/blob/ma/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Amina313/sf_data_science/blob/ma/project_0/README.md#Oглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток.
