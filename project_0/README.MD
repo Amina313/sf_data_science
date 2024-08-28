@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up: [к оглавлению](https://github.com/Amina313/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Amina313/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток.
@@ -32,24 +32,24 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up: [к оглавлению](https://github.com/Amina313/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Amina313/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Amina313/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Amina313/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Amina313/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
